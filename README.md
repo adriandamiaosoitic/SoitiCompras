@@ -31,19 +31,25 @@ Se uma tarefa não for terminada, iremos analisar para passa-la para a proxima S
 Teremos Três Sprints
 <br>
 Sprint 1 09/06/2025 - 23/06/2025
+ <br>
   Análise e Modelagem do Projeto
+   <br>
         Estudo sobre Scrum - 3 dias --> Todos
         Mapeamento dos fluxos e diagramação das entidades - 7 dias --> Lucas, Claudineia e Matheus
         Mapeamento das tecnologias utilizadas (front-back-db) - 5 dias --> Lucas e Luan
         <br>
 Sprint 2 24/06/2025 - 07/07/2025
+ <br>
   Inicio do desenvolvimento
+   <br>
         Criação e configuração dos projetos front e back - 8 dias - Luan e Lucas
         Prototipação das telas - 8 dias - Lucas Florentino (em paralelo)
         Implementação das telas principais --> Cadastro de solicitação, listagem das soliticações, login, mudança de status e rastreio da solicitação. -- Luan, Lucas
         <br>
 Sprint 3 08/07/2025 - 21/07/2025
+ <br>
   Melhorias e correções
+   <br>
         Ajustes finos novas telas - 5 dias
         Testes e validação - 5 dias - Lucas Florentino e Claudineia
         Implementação da infraestrutura de hospedagem - 5 dias - Matheus (em paralelo)
