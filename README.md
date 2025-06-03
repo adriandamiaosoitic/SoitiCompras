@@ -18,3 +18,33 @@ Farão parte desse projeto integrantes de vários setores, como por exemplo, Fin
 **Scrum Master:** Adrian Damião - Equipe Cloud
 <br>
 **Equipe de Desenvolvimento:** Lucas Carvalho (Desenvolvedor), Lucas Florentino (QA), Matheus Lopes (TI), Luan Antonio(Desenvolvedor)
+
+
+### Reuniões de Alinhamento
+Todo dia teremos uma daily de 15 minutos --> Todos deverão saber o que os outros fizeram no dia anterior e avisar no que estão precisando de ajuda.
+Todo início de Sprint teremos uma reunião de Planejamento um dia antes.
+Todo fim de Sprint teremos uma reunião de revisão e retrospectiva.
+
+Todas as Sprints terão 15 dias, salvo em exceções caso ocorrerem imprevistos.
+Se uma tarefa não for terminada, iremos analisar para passa-la para a proxima Sprint.
+
+Teremos Três Sprints
+
+Sprint 1 09/06/2025 - 23/06/2025
+  Análise e Modelagem do Projeto
+        Estudo sobre Scrum - 3 dias --> Todos
+        Mapeamento dos fluxos e diagramação das entidades - 7 dias --> Lucas, Claudineia e Matheus
+        Mapeamento das tecnologias utilizadas (front-back-db) - 5 dias --> Lucas e Luan
+Sprint 2 24/06/2025 - 07/07/2025
+  Inicio do desenvolvimento
+        Criação e configuração dos projetos front e back - 8 dias - Luan e Lucas
+        Prototipação das telas - 8 dias - Lucas Florentino (em paralelo)
+        Implementação das telas principais --> Cadastro de solicitação, listagem das soliticações, login, mudança de status e rastreio da solicitação. -- Luan, Lucas
+Sprint 3 08/07/2025 - 21/07/2025
+  Melhorias e correções
+        Ajustes finos novas telas - 5 dias
+        Testes e validação - 5 dias - Lucas Florentino e Claudineia
+        Implementação da infraestrutura de hospedagem - 5 dias - Matheus (em paralelo)
+        Implantação do software e testes externos/monitoramento - 5 dias - Todos
+
+
